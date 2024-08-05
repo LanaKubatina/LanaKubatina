@@ -14,9 +14,6 @@ Detail-oriented QA engineer with over 3 years of experience in software testing 
 * 🤝  I'm open to collaborating on interesting projects in education.
 * ⚡  I like to train my cat to new tricks. The arm hoop jump is my favorite one.
 
-<a href="https://www.github.com/LanaKubatina" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/LanaKubatina?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
