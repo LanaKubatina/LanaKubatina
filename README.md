@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lana Kubatina
+<img src="/Screenshot 2024-08-06 091234.png" alt="banner" />
+
+Hi there and welcome to my GitHub page 👋
 =========================================================================================================================================
 
-QA Engineer
------------
 
-Detail-oriented QA engineer with over 3 years of experience in software testing with a background in education, skilled in regression, exploratory, and API testing. Proven track record of identifying and resolving software defects, improving product quality, and enhancing user satisfaction. Adept at working independently and in collaborative environments, with strong problem-solving skills and a passion for continuous learning.
+My name is Lana, and I am a detail-oriented QA engineer with over 3 years of experience in software testing with a background in education, skilled in regression, exploratory, and API testing. Proven track record of identifying and resolving software defects, improving product quality, and enhancing user satisfaction. Adept at working independently and in collaborative environments, with strong problem-solving skills and a passion for continuous learning.
 
 * 🌍  I'm based in Portland, OR
 * 🖥️  See my portfolio at [MyPortfolio](http://www.notion.so/lana-kubatina/Hi-I-m-Lana-e7f7063e6bde48e3a67f29a261518f0e?pvs=4)
