@@ -1,10 +1,10 @@
 <img src="/Screenshot 2024-08-06 091234.png" alt="banner" />
 
-Hi there and welcome to my GitHub page 👋
+Hi there, and welcome to my GitHub page 👋
 =========================================================================================================================================
 
 
-My name is Lana, and I am a detail-oriented QA engineer with over 3 years of experience in software testing with a background in education, skilled in regression, exploratory, and API testing. Proven track record of identifying and resolving software defects, improving product quality, and enhancing user satisfaction. Adept at working independently and in collaborative environments, with strong problem-solving skills and a passion for continuous learning.
+My name is Lana, and I am a detail-oriented QA engineer with over 3 years of experience in software testing. I have a background in education and am skilled in regression, exploratory, and API testing. Proven track record of identifying and resolving software defects, improving product quality, and enhancing user satisfaction. Adept at working independently and in collaborative environments, with strong problem-solving skills and a passion for continuous learning.
 
 * 🌍  I'm based in Portland, OR
 * 🖥️  See my portfolio at [MyPortfolio](http://www.notion.so/lana-kubatina/Hi-I-m-Lana-e7f7063e6bde48e3a67f29a261518f0e?pvs=4)
@@ -26,16 +26,3 @@ My name is Lana, and I am a detail-oriented QA engineer with over 3 years of exp
 
 <p align="left"> <a href="https://discord.com/users/lana_kuba" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/LanaKubatina" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/geminitaya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/LanaKubatina"><img src="https://github-readme-stats.vercel.app/api?username=LanaKubatina&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LanaKubatina's GitHub stats" /></a>
-
-<a href="http://www.github.com/LanaKubatina"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LanaKubatina&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/LanaKubatina" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaKubatina&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
