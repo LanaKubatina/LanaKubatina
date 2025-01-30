@@ -4,14 +4,14 @@ Hi there, and welcome to my GitHub page 👋
 =========================================================================================================================================
 
 
-My name is Lana, and I am a detail-oriented QA engineer with over 3 years of experience in software testing. I have a background in education and am skilled in regression, exploratory, and API testing. Proven track record of identifying and resolving software defects, improving product quality, and enhancing user satisfaction. Adept at working independently and in collaborative environments, with strong problem-solving skills and a passion for continuous learning.
+My name is Lana, and I am a QA engineer with over 3 years of experience in software testing. I have a background in education and am skilled in regression, exploratory, and API testing. Proven track record of identifying and resolving software defects, improving product quality, and enhancing user satisfaction. Adept at working independently and in collaborative environments, with strong problem-solving skills and a passion for continuous learning.
 
 * 🌍  I'm based in Portland, OR
-* 🖥️  See my portfolio at [MyPortfolio](http://www.notion.so/lana-kubatina/Hi-I-m-Lana-e7f7063e6bde48e3a67f29a261518f0e?pvs=4)
-* ✉️  You can contact me at [lana.kubatina@gmail.com](mailto:lana.kubatina@gmail.com)
-* 🚀  I'm currently working on [Slopopedia](http://slopopedia.s3-website-us-east-1.amazonaws.com/)
-* 🧠  I'm learning Playwright.
-* 🤝  I'm open to collaborating on interesting projects in education.
+* 🖥️  See my portfolio at [MyPortfolio](LanaKubatina.github.io)
+* ✉️  You can contact me at [lana.kubatina.qa@gmail.com](mailto:lana.kubatina.qa@gmail.com)
+* 🚀  I'm currently working on [eLearningDOC](https://elearningdoc.com/)
+* 🧠  I'm learning Playwright and Cypress.
+* 🤝  I'm open to collaborating on interesting projects in education and other forward-thinking industries.
 * ⚡  I like to train my cat to new tricks. The arm hoop jump is my favorite one.
 
 ### Skills
