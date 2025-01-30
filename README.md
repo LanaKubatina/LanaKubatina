@@ -1,4 +1,4 @@
-<img src="/Screenshot 2024-08-06 091234.png" alt="banner" />
+<img src="/Bugs_Banner.png" alt="banner" />
 
 Hi there, and welcome to my GitHub page 👋
 =========================================================================================================================================
