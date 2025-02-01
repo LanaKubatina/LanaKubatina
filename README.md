@@ -6,12 +6,12 @@ Hi there, and welcome to my GitHub page 👋
 
 My name is Lana, and I am a QA engineer with over 3 years of experience in software testing. I have a background in education and am skilled in regression, exploratory, and API testing. Proven track record of identifying and resolving software defects, improving product quality, and enhancing user satisfaction. Adept at working independently and in collaborative environments, with strong problem-solving skills and a passion for continuous learning.
 
-* 🌍  I'm based in Portland, OR
+* 🌍  Based in Portland, OR
 * 🖥️  See my portfolio at [MyPortfolio](LanaKubatina.github.io)
 * ✉️  You can contact me at [lana.kubatina.qa@gmail.com](mailto:lana.kubatina.qa@gmail.com)
-* 🚀  I'm currently working on [eLearningDOC](https://elearningdoc.com/)
-* 🧠  I'm learning Playwright and Cypress.
-* 🤝  I'm open to collaborating on interesting projects in education and other forward-thinking industries.
+* 🚀  Currently working at [eLearningDOC](https://elearningdoc.com/)
+* 🧠  Learning Playwright and Cypress.
+* 🤝  Open to collaborating on interesting projects in education and other forward-thinking industries.
 * ⚡  I like to train my cat to new tricks. The arm hoop jump is my favorite one.
 
 ### Skills
